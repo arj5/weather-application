@@ -1,25 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+import UilReact from '@iconscout/react-unicons/icons/uil-react'
+import TopBtns from './components/TopBtns'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    
+    <div className="mxauto max-w-screen-md mt-4 py-5 px-32 
+    bg-gradient-to-br
+    from-cyan-700 to-blue-700 
+    h-fit shadow-xl shadow-gray-400">
+      <TopBtns/>
     </div>
+    
+
   );
 }
 
-export default App;
+
+
+
+
+export default App
