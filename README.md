@@ -3,6 +3,8 @@
 
 I have successfully deployed a dynamic weather application leveraging the power of JavaScript. This application provides users with accurate geolocation and real-time weather data sourced from the OpenWeather API. The frontend is built using React, incorporating responsive design principles through the use of components, hooks, and props. To enhance the user experience, I've employed the modern styling capabilities of Tailwind CSS, ensuring a visually appealing and intuitive interface. The application features a robust location search functionality developed with JavaScript XML, offering both predefined locations and the convenience of unit conversion for a comprehensive user experience. Explore the weather effortlessly with this feature-rich, responsive weather app!
 
+#### Try it for yourself! https://smplweather.netlify.app/
+
 
 
 ## Demo
